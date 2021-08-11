@@ -1,5 +1,7 @@
 # GithubUsersSample
 
+ < Run sample need Xcode13 or newer.
+
 Code sample for article about [*task(priority:_:)*](https://developer.apple.com/documentation/swiftui/list/task(priority:_:)).
 Article:
 - [dev.to](https://dev.to/toni777772/)
