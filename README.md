@@ -7,7 +7,7 @@ Code sample for article about new ViewModifier [*task(priority:_:)*](https://dev
 Article:
 - [dev.to](https://dev.to/toni777772/task-new-viewmodifier-in-ios15-swiftui-16ke)
 - [tonidevblog](https://tonidevblog.com/posts/task-new-viewmodifier-in-ios15.-swiftui/)
-- [medium](https://toxa95401.medium.com/)
+- [medium](https://toxa95401.medium.com/task-is-the-new-viewmodifier-in-ios15-swiftui-69a74ad7b04e)
 
 <div align="left"><img src="Assets/UsersList.png" width="382px" height="100%"></div>
 
